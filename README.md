@@ -5,7 +5,7 @@ How to launch the project : php -S localhost:8000
 
 # If you don't have php installed on your os 
 
-https://www.youtube.com/watch?v=zxphxTaXVMk&t=581s&ab_channel=EaseCoding
+https://www.youtube.com/watch?v=zxphxTaXVMk&ab_channel=EaseCoding
 
 it was a very helpful video for me, because i completely forgot how to do it
 
