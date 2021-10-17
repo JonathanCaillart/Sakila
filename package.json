@@ -1,0 +1,14 @@
+{
+  "name": "sakila",
+  "version": "1.0.0",
+  "description": "needed to validate an ecf",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "author": "Jonathan Caillart",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap-icons": "^1.6.0"
+  }
+}
